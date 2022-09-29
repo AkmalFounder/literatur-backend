@@ -1,10 +1,10 @@
 {
   "development": {
-    "username": "root",
-    "password": "root",
+    "username": "akmal",
+    "password": "Future1",
     "database": "literature",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
+    "host": "103.174.114.24",
+    "dialect": "postgresql"
   },
   "test": {
     "username": "root",
